@@ -1,0 +1,18 @@
+\begin{table}[!t]
+\centering\footnotesize
+\caption{Training-Strategy Comparison on the FACED Test Set (\%)}
+\label{tab:training_strategy}
+\begin{tabular}{lrr}
+\toprule
+Training Strategy & Joint EW-F1 & EEG-only EW-F1 \\
+\midrule
+Direct joint training & 68.61 & 1.18 \\
+Mixed-task training & 40.87 & 39.71 \\
+Staged training & 41.99 & 45.55 \\
+\midrule
+BrainRel: full curriculum$^{\dagger}$ & 75.76 & 59.38 \\
+\bottomrule
+\end{tabular}
+\par\smallskip\scriptsize\raggedright
+All results use 644 test trials and development-selected checkpoints. The first three runs were each allocated 150 updates and 1,200 presentations. Mixed and staged runs share the complete task-batch multiset and planned per-module budgets, but their selected update-100 prefixes have different per-module update counts. The staged checkpoint precedes final relation refinement. $^{\dagger}$The historical full curriculum has different initialization history and cumulative budget; it is a performance reference, not a budget-matched ablation.
+\end{table}

@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "device": "cpu",
+  "synthetic_only": true,
+  "checks": [
+    "100x8_nodes",
+    "170_hyperedges",
+    "temporal_center_recipients",
+    "32_slot_readout",
+    "router_and_attention_shapes",
+    "initial_equivalence",
+    "RMS_cap",
+    "zero_reference",
+    "trace_schema",
+    "parser",
+    "empty_set_policy",
+    "atlas_shape"
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "checks": [
+    {
+      "path": "final_test_20261120/brainrel/adapted_joint",
+      "n": 644,
+      "records_sha256": "66909531c725bc646266c1e630535cc469dbdf5bca34834bf816e19b7bb4e467",
+      "metrics_sha256": "e846cf06e43b2843e9ebaf41aacc705141442eec26ce3205c8c00573af1e4103",
+      "max_abs_difference": 0.0,
+      "differences": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "n": 0,
+        "micro_f1": 0.0,
+        "macro_f1_eight": 0.0,
+        "jaccard": 0.0
+      },
+      "passed": true
+    },
+    {
+      "path": "final_test_20261120/brainrel/adapted_eeg",
+      "n": 644,
+      "records_sha256": "83af90e2b03595a57d6da51154a6e2f9d0d02e2f009d105ff8b81d2c9098c408",
+      "metrics_sha256": "eb96435c16c9393c2e9057554f673b401ed64246c0fb3d2a94a381724c4b2fa7",
+      "max_abs_difference": 0.0,
+      "differences": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "n": 0,
+        "micro_f1": 0.0,
+        "macro_f1_eight": 0.0,
+        "jaccard": 0.0
+      },
+      "passed": true
+    },
+    {
+      "path": "final_test_20261120/brainrel/adapted_video",
+      "n": 644,
+      "records_sha256": "1610383a3ceb74a64601a0cdf2ae3c99db9b12e72ef26687fc2083e4df6fca3b",
+      "metrics_sha256": "92b4ba860b5b9fabc3408ce959013a8e35e1570bf0c65b6674e2354c12e30a27",
+      "max_abs_difference": 0.0,
+      "differences": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "n": 0,
+        "micro_f1": 0.0,
+        "macro_f1_eight": 0.0,
+        "jaccard": 0.0
+      },
+      "passed": true
+    },
+    {
+      "path": "curriculum_ablation_fresh_v1/direct/selected_test644_joint",
+      "n": 644,
+      "records_sha256": "f69fd63fb9f6072d50761d4707152a17728168d167e34b0df71887e8540ab37a",
+      "metrics_sha256": "e88bd72051583a17ec32042e11ea12f2645db1384f6c3335f6e81f67ee04e90e",
+      "max_abs_difference": 0.0,
+      "differences": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "n": 0,
+        "micro_f1": 0.0,
+        "macro_f1_eight": 0.0,
+        "jaccard": 0.0
+      },
+      "passed": true
+    },
+    {
+      "path": "curriculum_ablation_fresh_v1/direct/selected_test644_eeg",
+      "n": 644,
+      "records_sha256": "45dc790392c1b480bd8d5dd3f24bcb0f84697476d749eeb9fb441967bb1d6e2c",
+      "metrics_sha256": "36121c8cccbcd5f2458e9b4ea6aed058f6d46a8886b9a323826695a1adfc0f14",
+      "max_abs_difference": 0.0,
+      "differences": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "n": 0,
+        "micro_f1": 0.0,
+        "macro_f1_eight": 0.0,
+        "jaccard": 0.0
+      },
+      "passed": true
+    },
+    {
+      "path": "curriculum_ablation_fresh_v1/mixed/selected_test644_joint",
+      "n": 644,
+      "records_sha256": "7ad3de5d1cc6303cdd4202e9319fb14ae28f52f015e5c1a692a14dceb273417d",
+      "metrics_sha256": "7950bdbab7ffd9fa0f1f928759d4f8144b91c7b43fa725e81fa8cbfa16d1c8c0",
+      "max_abs_difference": 0.0,
+      "differences": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "n": 0,
+        "micro_f1": 0.0,
+        "macro_f1_eight": 0.0,
+        "jaccard": 0.0
+      },
+      "passed": true
+    },
+    {
+      "path": "curriculum_ablation_fresh_v1/mixed/selected_test644_eeg",
+      "n": 644,
+      "records_sha256": "0348c22c347cc5f8499712f7cca5a7729dec66ba0f4e47068c9742b3763983d6",
+      "metrics_sha256": "cf195ec12f2fe4fc7b0f7f8d64748afe1cdc61469cf1c8a668e8166c262f1697",
+      "max_abs_difference": 0.0,
+      "differences": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "n": 0,
+        "micro_f1": 0.0,
+        "macro_f1_eight": 0.0,
+        "jaccard": 0.0
+      },
+      "passed": true
+    },
+    {
+      "path": "curriculum_ablation_fresh_v1/staged/selected_test644_joint",
+      "n": 644,
+      "records_sha256": "9f9cbf2996eda3c6029e47c1455923bf9800624303dc079c31ea86fd49875c69",
+      "metrics_sha256": "093da4696bcfe169c8c07c43c6c5f478bc2e5553fc7709181e757ec6f80c146c",
+      "max_abs_difference": 0.0,
+      "differences": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "n": 0,
+        "micro_f1": 0.0,
+        "macro_f1_eight": 0.0,
+        "jaccard": 0.0
+      },
+      "passed": true
+    },
+    {
+      "path": "curriculum_ablation_fresh_v1/staged/selected_test644_eeg",
+      "n": 644,
+      "records_sha256": "bda10bd47fd1ef90aba357291efd63cf6008074991005e6b4a129988146fabd8",
+      "metrics_sha256": "e866a8b9dbc2b1bf66f4782db4875e3761eef3d45981672ed98b071f7ab3fc58",
+      "max_abs_difference": 0.0,
+      "differences": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "n": 0,
+        "micro_f1": 0.0,
+        "macro_f1_eight": 0.0,
+        "jaccard": 0.0
+      },
+      "passed": true
+    },
+    {
+      "path": "final_test_20261120/analysis/masking/full",
+      "n": 644,
+      "records_sha256": "e76c0a3aaeb4802f5cd0beb0668586aa122fda954be46bfa4acac8512131399d",
+      "metrics_sha256": "1edc475e0ef16bd29acca75dd847ebfa9bace5320aaa59ca9fa285bd1b4c2441",
+      "max_abs_difference": 0.0,
+      "differences": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "n": 0,
+        "micro_f1": 0.0,
+        "macro_f1_eight": 0.0,
+        "jaccard": 0.0
+      },
+      "passed": true
+    },
+    {
+      "path": "final_test_20261120/analysis/masking/mask_selected",
+      "n": 644,
+      "records_sha256": "a007591cb6882f66f1a892ff02e0189d82327a51161fa03e6cf476eb38936361",
+      "metrics_sha256": "4f75a64684b8c09a14f760c56e0331cbcdb42e726b3d9c41fc6d1f0370614044",
+      "max_abs_difference": 0.0,
+      "differences": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "n": 0,
+        "micro_f1": 0.0,
+        "macro_f1_eight": 0.0,
+        "jaccard": 0.0
+      },
+      "passed": true
+    },
+    {
+      "path": "final_test_20261120/analysis/masking/random_0",
+      "n": 644,
+      "records_sha256": "219c26701859c8c9af600b98a146d2f40771f5668cd4446c1a3c17124679e6d6",
+      "metrics_sha256": "29515ff0168ee466b761857f9a0f797286fd2ea2d487bcb62e2a7dded663ac02",
+      "max_abs_difference": 0.0,
+      "differences": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "n": 0,
+        "micro_f1": 0.0,
+        "macro_f1_eight": 0.0,
+        "jaccard": 0.0
+      },
+      "passed": true
+    },
+    {
+      "path": "final_test_20261120/analysis/masking/random_1",
+      "n": 644,
+      "records_sha256": "0253f31d3f7367dde38ae9e8174fa5663f5c44fa2e314d56891365da5a1fd352",
+      "metrics_sha256": "54c850fcc71a3fb0636bfba6e174151f3c72fa4f884e042a4021af80cee91228",
+      "max_abs_difference": 0.0,
+      "differences": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "n": 0,
+        "micro_f1": 0.0,
+        "macro_f1_eight": 0.0,
+        "jaccard": 0.0
+      },
+      "passed": true
+    },
+    {
+      "path": "final_test_20261120/analysis/masking/random_2",
+      "n": 644,
+      "records_sha256": "4448f4497b645fc886ee52907929fa520126a2a83cde435439379d45f6bf7246",
+      "metrics_sha256": "eaa2fb516ba6ad56228000c8179241863382481f61583803aff1fdc64aa0e849",
+      "max_abs_difference": 0.0,
+      "differences": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "n": 0,
+        "micro_f1": 0.0,
+        "macro_f1_eight": 0.0,
+        "jaccard": 0.0
+      },
+      "passed": true
+    },
+    {
+      "path": "final_test_20261120/analysis/masking/random_3",
+      "n": 644,
+      "records_sha256": "28a918e3e346f604b4d2a5e51c57c10f83fbaccaa5b475a13b2523bd48ad3ea8",
+      "metrics_sha256": "f53ae18a06736b5da764efc6c6962e861d06c6ca2f41fd3ab2ec75c2166b17be",
+      "max_abs_difference": 0.0,
+      "differences": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "n": 0,
+        "micro_f1": 0.0,
+        "macro_f1_eight": 0.0,
+        "jaccard": 0.0
+      },
+      "passed": true
+    },
+    {
+      "path": "final_test_20261120/analysis/masking/random_4",
+      "n": 644,
+      "records_sha256": "b829733b6f1e1b3473b05a920669cee82d449d37700142548eccbe503da149c7",
+      "metrics_sha256": "0fbb90a29ac1058b312f05bd3cf9c969ce30838c5f8254eefef8f01a795614a2",
+      "max_abs_difference": 0.0,
+      "differences": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "n": 0,
+        "micro_f1": 0.0,
+        "macro_f1_eight": 0.0,
+        "jaccard": 0.0
+      },
+      "passed": true
+    }
+  ],
+  "metric_protocol": {
+    "commit": "95b9257758df29fa6481c138252cdd317cce1735",
+    "mapping": "unmodified official",
+    "asset_hashes": {
+      "upstream/AffectGPT/emotion_wheel/format.csv": "ba6de7d61db8e129d1d7ef8a2aae22a9e93a2c2e3e683e6f2735d04455f016f2",
+      "upstream/AffectGPT/emotion_wheel/synonym.xlsx": "23f81f9ab1d2418aaf96775304fb5dc52c62bb5d5ef652a97471d045fc9d2e29",
+      "upstream/AffectGPT/emotion_wheel/wheel1.xlsx": "e70485d354b82a7491ff24648273182a5f4f13f92c76e6b3e4f9033f5e6afcc1",
+      "upstream/AffectGPT/emotion_wheel/wheel2.xlsx": "acc001e076a8e60440361f58dd8c05ed900c4890c84bb7d8d1df93708a7d9c87",
+      "upstream/AffectGPT/emotion_wheel/wheel3.xlsx": "d62f30bf88c17c55876634cd088eacaef98278fc25457474364439872f9dbf83",
+      "upstream/AffectGPT/emotion_wheel/wheel4.xlsx": "660260561b7fe15550f3679a01e7c783608ce3403d4c28db0a88520f68d83aea",
+      "upstream/AffectGPT/emotion_wheel/wheel5.xlsx": "2dd4595b2cf8e7628ca06a416a8e38ac831614b244f23d1ae613dc34007649f1",
+      "upstream/AffectGPT/my_affectgpt/evaluation/wheel.py": "2072ae0f6b18721cac9b51e154fac30c013cb73800366797a474f616f2631f54",
+      "upstream/OV-MER/toolkit/utils/functions.py": "7d422f9069c1f134729838e0ee08aa9bba0a310ed0b7c7d0f2d1d97ca4f7e23d",
+      "upstream/OV-MER/toolkit/utils/read_files.py": "5c59f4887971fb58a6ead16fca4cdb1463645538d896e3d280e5449cad20adce"
+    },
+    "empty_policy": "Original code omits empty mapped truth per wheel; report denominators",
+    "aggregation": "Sample-average P/R, harmonic F1 per wheel, mean across five level1 wheels",
+    "known_mapping_anomalies": "Retained for official compatibility, including previously audited fear-form conflation"
+  },
+  "passed": true,
+  "scope": "CPU rescoring existing predictions only; no new model generation"
+}
