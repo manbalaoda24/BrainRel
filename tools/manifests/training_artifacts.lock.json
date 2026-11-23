@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-23",
+  "scope": "Read-only historical FACED main chain and fresh curriculum results; not a full dependency lock",
+  "sha256": {
+    "open_input_image_v1/best.pt": "1e6ff12a181e807b1e455f4b0cbb8828a834c6587bbbf480c9000e5c896323c7",
+    "numeric_evidence_filter_full_v1/best.pt": "d22163c28c86f701c1545a57693c2f9a5395328153d9efe9b50cd6611cb6e778",
+    "v2_video_joint_lora_pilot_v1/best.pt": "c45b420febbf787e938fdb12b31ba06ebe723080b4c144730fe99500dcd469da",
+    "v2_hypergraph_experts_pilot_v1/best.pt": "6edd57e9909fe04cd6f0f28d9f1495d1a006a56fa4fb1b9b4d5d7f470175e387",
+    "open_input_image_v1/protocol.json": "d74ad6075c9660061933b62b4eea468dff9e7b77f7641f74cd293fdabe03235a",
+    "numeric_evidence_filter_full_v1/protocol.json": "aa5f6141f72250a2ee785711e90bd7bb1e718fa02a3601a3b4e0ac4fa5e76929",
+    "v2_video_joint_lora_pilot_v1/protocol.json": "00031122f4df96198239d3104cacd718079d6e2c2ad0d0f4c4a27d6a7800eb0d",
+    "v2_hypergraph_experts_pilot_v1/protocol.json": "5309f2bcd66a5d18ad2dafb928c2c76d521c23213a22482006677e11ec8f2deb",
+    "final_test_20261120/brainrel/adapted_joint_metrics.json": "e846cf06e43b2843e9ebaf41aacc705141442eec26ce3205c8c00573af1e4103",
+    "final_test_20261120/brainrel/adapted_eeg_metrics.json": "eb96435c16c9393c2e9057554f673b401ed64246c0fb3d2a94a381724c4b2fa7",
+    "final_test_20261120/brainrel/adapted_video_metrics.json": "92b4ba860b5b9fabc3408ce959013a8e35e1570bf0c65b6674e2354c12e30a27",
+    "curriculum_ablation_fresh_v1/direct/selection_lock.json": "c743f5934038c75642b8078993de1abe31cba61a43c4a1d1325ecd99b8808807",
+    "curriculum_ablation_fresh_v1/direct/selected_test644_joint_metrics.json": "e88bd72051583a17ec32042e11ea12f2645db1384f6c3335f6e81f67ee04e90e",
+    "curriculum_ablation_fresh_v1/direct/selected_test644_eeg_metrics.json": "36121c8cccbcd5f2458e9b4ea6aed058f6d46a8886b9a323826695a1adfc0f14",
+    "curriculum_ablation_fresh_v1/mixed/selection_lock.json": "9cbe6fbd03d951527ff245211f2a9cf5d4315eb300fc8a956f8afe786e3f2426",
+    "curriculum_ablation_fresh_v1/mixed/selected_test644_joint_metrics.json": "7950bdbab7ffd9fa0f1f928759d4f8144b91c7b43fa725e81fa8cbfa16d1c8c0",
+    "curriculum_ablation_fresh_v1/mixed/selected_test644_eeg_metrics.json": "cf195ec12f2fe4fc7b0f7f8d64748afe1cdc61469cf1c8a668e8166c262f1697",
+    "curriculum_ablation_fresh_v1/staged/selection_lock.json": "af04703770fd783b4135a17dd5af4a79d92101c809ee669c44f3db59384aaad9",
+    "curriculum_ablation_fresh_v1/staged/selected_test644_joint_metrics.json": "093da4696bcfe169c8c07c43c6c5f478bc2e5553fc7709181e757ec6f80c146c",
+    "curriculum_ablation_fresh_v1/staged/selected_test644_eeg_metrics.json": "e866a8b9dbc2b1bf66f4782db4875e3761eef3d45981672ed98b071f7ab3fc58"
+  }
+}

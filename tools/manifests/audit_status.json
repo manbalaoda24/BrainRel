@@ -1,0 +1,11 @@
+{
+  "remote_mutations": false,
+  "training": false,
+  "new_generation": false,
+  "archived_prediction_regression_passed": true,
+  "source_sensitive_pattern_scan_passed": true,
+  "missing_parent_checkpoints": [],
+  "public_upload": false,
+  "license_review_complete": false,
+  "limitation": "No raw data, per-sample predictions, upstream assets or model weights exported"
+}

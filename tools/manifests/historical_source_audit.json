@@ -1,0 +1,86 @@
+[
+  {
+    "checkpoint": "v2_hypergraph_experts_pilot_v1/best.pt",
+    "selected_epoch": 1,
+    "recorded_source_matches": {
+      "source_sha256": [
+        "snapshot/scripts/faced_open_baselines_v1/train_hypergraph_pilot.py"
+      ],
+      "hypergraph_sha256": [
+        "snapshot/scripts/faced_traceable_visual_v1/hypergraph_relation_experts.py"
+      ]
+    }
+  },
+  {
+    "checkpoint": "v2_video_joint_lora_pilot_v1/best.pt",
+    "selected_epoch": 1,
+    "recorded_source_matches": {
+      "source_sha256": [],
+      "runtime_sha256": []
+    }
+  },
+  {
+    "checkpoint": "numeric_evidence_filter_full_v1/best.pt",
+    "selected_epoch": 1,
+    "recorded_source_matches": {
+      "code_sha256": []
+    }
+  },
+  {
+    "checkpoint": "open_input_image_v1/best.pt",
+    "selected_epoch": 3,
+    "recorded_source_matches": {
+      "code_sha256": []
+    }
+  },
+  {
+    "checkpoint": "open_description_ew_label_v1/best.pt",
+    "selected_epoch": 1,
+    "recorded_source_matches": {
+      "code_sha256": []
+    }
+  },
+  {
+    "checkpoint": "region_binding_sft_v1/best.pt",
+    "selected_epoch": 3,
+    "recorded_source_matches": {
+      "source_sha256": [],
+      "code_sha256": [
+        "snapshot/scripts/faced_traceable_visual_v1/train_region_binding.py"
+      ]
+    }
+  },
+  {
+    "checkpoint": "readout_recipe_2x2_v1/full_borrowed/best.pt",
+    "selected_epoch": 42,
+    "recorded_source_matches": {}
+  },
+  {
+    "checkpoint": "classifier_visual_multitask_v1/last.pt",
+    "selected_epoch": 3,
+    "recorded_source_matches": {
+      "source_sha256": [],
+      "code_sha256": []
+    }
+  },
+  {
+    "checkpoint": "traceable_visual_reader_paired_v2/best.pt",
+    "selected_epoch": 2,
+    "recorded_source_matches": {
+      "source_sha256": [],
+      "code_sha256": [
+        "snapshot/scripts/faced_traceable_visual_v1/train_reader_paired_v2.py"
+      ]
+    }
+  },
+  {
+    "checkpoint": "traceable_visual_reader_sft_v1/best.pt",
+    "selected_epoch": 3,
+    "recorded_source_matches": {
+      "source_sha256": [],
+      "code_sha256": [
+        "snapshot/scripts/faced_traceable_visual_v1/train_reader.py"
+      ]
+    }
+  }
+]
